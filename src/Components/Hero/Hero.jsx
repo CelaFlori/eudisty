@@ -1,5 +1,5 @@
 import "./Hero.css";
-import dark_arrow from "../../assets/dark_arrow.png";
+import dark_arrow from "../../assets/dark-arrow.png";
 
 function Hero() {
   return (
